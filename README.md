@@ -17,5 +17,5 @@ OOP graphics game highlighting user interaction with sound and animations.
 
 ### Calculator
 OOP graphics program that can perform complex calculations and take keyboard input.
-![Calc Blank](https://github.com/alexteepyo/programmingportfolio/blob/main/images/Sg1%20Start.png?raw=true)
-![Calc Numbers](https://github.com/alexteepyo/programmingportfolio/blob/main/images/Sg1%20GamePlay.png?raw=true)
+![Calc Blank](https://github.com/alexteepyo/programmingportfolio/blob/main/images/Calc%20Blank.png?raw=true)
+![Calc Numbers](https://github.com/alexteepyo/programmingportfolio/blob/main/images/Calc%20Numbers.png?raw=true)
