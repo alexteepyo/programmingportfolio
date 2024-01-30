@@ -2,3 +2,11 @@
 
 ## Certifications
 * Programming 1 USOE Certification
+
+
+## Group Project
+
+## Individual Project
+
+### SpaceGame
+OOP graphics game highlighting user interaction with sound and animations.
