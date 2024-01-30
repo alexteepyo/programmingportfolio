@@ -20,5 +20,5 @@ OOP graphics game highlighting user interaction with sound and animations.
 OOP graphics program that can perform complex calculations and take keyboard input.
 ![Calc Blank](https://github.com/alexteepyo/programmingportfolio/blob/main/images/Calc%20Blank.png?raw=true)
 ![Calc Numbers](https://github.com/alexteepyo/programmingportfolio/blob/main/images/Calc%20Numbers.png?raw=true)
-
+\n\t
 [SourceCode](https://github.com/alexteepyo/programmingportfolio/blob/main/src/Calcu.zip)
