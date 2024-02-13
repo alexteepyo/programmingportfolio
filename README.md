@@ -6,7 +6,7 @@
 
 ## Group Project
 
-## Individual Project
+## Individual Projects
 
 ### SpaceGame
 OOP graphics game highlighting user interaction with sound and animations. Made in Java Processing.
