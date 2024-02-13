@@ -26,7 +26,6 @@ OOP graphics program that can perform complex calculations and take keyboard inp
 
 
 Source Code below:
-
 [SourceCode](https://github.com/alexteepyo/programmingportfolio/blob/main/src/Calcu.zip)
 
 
