@@ -15,8 +15,7 @@ OOP graphics game highlighting user interaction with sound and animations. Made 
 ![Spacegame Gameover](https://github.com/alexteepyo/programmingportfolio/blob/main/images/Sg1%20GameOver.png?raw=true)
 
 
-Source Code below:
-
+Source Code:
 [SourceCode](https://github.com/alexteepyo/programmingportfolio/raw/main/src/SpaceGame%205.zip)
 
 ### Calculator
@@ -25,8 +24,7 @@ OOP graphics program that can perform complex calculations and take keyboard inp
 ![Calc Numbers](https://github.com/alexteepyo/programmingportfolio/blob/main/images/Calc%20Numbers.png?raw=true)
 
 
-Source Code below:
-
+Source Code:
 [SourceCode](https://github.com/alexteepyo/programmingportfolio/blob/main/src/Calcu.zip)
 
 
@@ -36,6 +34,5 @@ Quick guessing game program that can pick a number at random and tell you if you
 ![Guess Win](https://github.com/alexteepyo/programmingportfolio/blob/main/images/WinningGuess.png?raw=true)
 
 
-Source Code below:
-
+Source Code:
 [SourceCode](https://github.com/alexteepyo/programmingportfolio/raw/main/src/GuessGame.zip)
