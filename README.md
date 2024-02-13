@@ -27,4 +27,6 @@ OOP graphics program that can perform complex calculations and take keyboard inp
 
 
 ## Guess Game
+![Guess Intro] (https://github.com/alexteepyo/programmingportfolio/blob/main/images/IntroGuess.png?raw=true)
+
 [SourceCode](https://github.com/alexteepyo/programmingportfolio/raw/main/src/GuessGame.zip)
