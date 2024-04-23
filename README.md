@@ -19,7 +19,7 @@ Source Code:
 [SourceCode](https://github.com/alexteepyo/programmingportfolio/raw/main/src/SpaceGame%205.zip)
 
 ### Calculator:
-OOP graphics program that can perform complex calculations and take keyboard input. Made in C++ Microsoft Visual Studio Code.
+OOP graphics program that can perform complex calculations and take keyboard input. Made in Java Processing.
 ![Calc Blank](https://github.com/alexteepyo/programmingportfolio/blob/main/images/Calc%20Blank.png?raw=true)
 ![Calc Numbers](https://github.com/alexteepyo/programmingportfolio/blob/main/images/Calc%20Numbers.png?raw=true)
 
