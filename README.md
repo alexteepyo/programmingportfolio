@@ -38,8 +38,8 @@ Source Code:
 [SourceCode](https://github.com/alexteepyo/programmingportfolio/raw/main/src/GuessGame.zip)
 
 
-### Piglatin Converter:
-Quick guessing game program that can pick a number at random and tell you if your guess is too high or low. Made in C++ Microsoft Visual Studio Code.
+### Pig-Latin Converter:
+Converter program that will take in a user input and convert said input into Pig-Latin. Made in C++ Microsoft Visual Studio Code.
 ![PigLatin Intro](https://github.com/alexteepyo/programmingportfolio/blob/main/images/PigStart.png?raw=true)
 ![PigLatin Converted](https://github.com/alexteepyo/programmingportfolio/blob/main/images/PigConverted.png?raw=true)
 
